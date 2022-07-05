@@ -2,15 +2,15 @@
 #include <time.h>
 #include <stdio.h>
 /*
- * main - print if the number is postive, zero, or negative
+ * main - print the last digit of n
  * Description: using the main function
- * this program prints "Programming is positive, zero, or negative
+ * this program prints "A random variable n"
  * Return: Always retutn 0
  */
+
 int main(void)
 {
 int n;
-
 srand(time(0));
 n = rand() - RAND_MAX / 2;
 l = n % 10;
