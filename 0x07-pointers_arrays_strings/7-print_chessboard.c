@@ -1,6 +1,6 @@
 /*
  * File: 7-print_chessboard.c
- * Auth: Gedeon Obae Gekonge
+ * Auth: Glorious Joy.
  */
 
 #include "main.h"
