@@ -1,9 +1,3 @@
-
-/*
- * File: 5-sqrt_recursion.c
- * Auth: Gedeon Obae Gekonge
- */
-
 #include "main.h"
 
 int find_sqrt(int num, int root);
