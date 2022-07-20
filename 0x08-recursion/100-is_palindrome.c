@@ -1,8 +1,3 @@
-/*
- * File: 7-is_palindrome.c
- * Auth: Gedeon Obae Gekonge
- */
-
 #include "main.h"
 
 int find_strlen(char *s);
