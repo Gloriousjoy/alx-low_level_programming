@@ -1,9 +1,3 @@
-
-/*
- * File: 100-reverse_listint.c
- * Auth: Gedeon Obae Gekonge
- */
-
 #include "lists.h"
 
 /**
